@@ -1,2 +1,2 @@
 # UQ_toolkit_design_for_AIDD
-应用于药物研发的不确定性量化工具
+应用于药物研发的UQ工具
