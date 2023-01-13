@@ -1,2 +1,2 @@
-# UQ_toolkit_design_for_AIDD
+# UQ_toolkit_design_for_DD
 应用于药物研发的UQ工具
